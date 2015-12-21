@@ -1,0 +1,8 @@
+C:\Users\Nakul\Documents\SharpDevelop Projects\CliDb\CliDb\bin\Debug\CliDb.exe
+C:\Users\Nakul\Documents\SharpDevelop Projects\CliDb\CliDb\bin\Debug\CliDb.pdb
+C:\Users\Nakul\Documents\SharpDevelop Projects\CliDb\CliDb\obj\Debug\CliDb.csprojResolveAssemblyReference.cache
+C:\Users\Nakul\Documents\SharpDevelop Projects\CliDb\CliDb\obj\Debug\CliDb.MainForm.resources
+C:\Users\Nakul\Documents\SharpDevelop Projects\CliDb\CliDb\obj\Debug\CliDb.csproj.GenerateResource.Cache
+C:\Users\Nakul\Documents\SharpDevelop Projects\CliDb\CliDb\obj\Debug\CliDb.exe
+C:\Users\Nakul\Documents\SharpDevelop Projects\CliDb\CliDb\obj\Debug\CliDb.pdb
+C:\Users\Nakul\Documents\SharpDevelop Projects\CliDb\CliDb\obj\Debug\CliDb.Options.resources
